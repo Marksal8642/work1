@@ -1,0 +1,37 @@
+free Cloud vendor
+Certainly! Here's a list of some popular cloud service providers that offer free tiers or accounts:
+
+1. **Amazon Web Services (AWS) Free Tier**: AWS provides a free tier for new users, allowing access to various AWS services with limited usage for 12 months. Visit the AWS Free Tier page for more details.
+
+2. **Google Cloud Platform (GCP) Free Tier**: GCP offers a free tier with a $300 credit to use on any GCP product during the first 12 months. Certain products also have ongoing free usage limits. Check out the GCP Free Tier page for more information.
+
+3. **Microsoft Azure Free Account**: Azure provides a free account with $200 credit to spend on Azure services for the first 30 days, along with free access to some popular services for 12 months. Explore the Azure Free Account page for details.
+
+4. **IBM Cloud Free Tier**: IBM Cloud offers a free tier with access to various IBM Cloud services, including compute, storage, and AI services. Visit the IBM Cloud Free Tier page for more information.
+
+5. **Oracle Cloud Free Tier**: Oracle Cloud provides a free tier with access to a range of Oracle Cloud services, including compute, storage, and databases. Check out the Oracle Cloud Free Tier page for details.
+
+6. **Alibaba Cloud Free Trial**: Alibaba Cloud offers a free trial with $300 credit to spend on eligible products and services for the first 90 days. Explore the Alibaba Cloud Free Trial page for more information.
+
+7. **DigitalOcean**: DigitalOcean offers a limited free tier with a $100 credit for new accounts. This credit can be used within 60 days. Visit the DigitalOcean website for more details.
+
+8. **Heroku Free Tier**: Heroku provides a free tier for hosting applications, with limited resources but suitable for development and testing purposes. Explore the Heroku Free Tier page for more information.
+
+These are just a few options, and each provider may have different offerings and limitations on their free tiers. Be sure to review their respective websites for the most up-to-date information on their free offerings and any associated terms and conditions.
+
+
+To sign up for the Google Cloud Platform (GCP) Free Tier, follow these steps:
+
+1. **Create a Google Account**: If you don't already have one, you'll need a Google Account to sign up for GCP. You can create one for free at https://accounts.google.com/signup.
+
+2. **Navigate to Google Cloud Console**: Go to the Google Cloud Console at https://console.cloud.google.com/.
+
+3. **Sign in or Create a New Project**: If you're not already signed in, sign in with your Google Account. Then, either select an existing project or create a new one. Projects are used to organize resources and manage billing in GCP.
+
+4. **Enable Billing**: To use GCP, you'll need to enable billing for your project, even if you plan to stay within the free tier limits. Google requires a valid payment method to verify your identity and prevent abuse. However, you won't be charged unless you upgrade to a paid account or exceed the free tier limits. You can set up a budget and alerts to monitor your spending.
+
+5. **Explore Free Tier Services**: Once your project is set up and billing is enabled, you can start exploring the free tier services available in GCP. These services include Compute Engine, Cloud Storage, Cloud Functions, BigQuery, and more. Each service has its own usage limits, which are typically sufficient for learning, development, and small-scale projects.
+
+6. **Review Terms and Conditions**: Be sure to review the terms and conditions of the GCP Free Tier to understand the usage limits, eligibility criteria, and any other relevant information.
+
+By following these steps, you'll be able to sign up for the Google Cloud Platform Free Tier and start using GCP services within the free usage limits. Remember to monitor your usage to avoid unexpected charges, especially if you plan to exceed the free tier limits or use paid services.
